@@ -1,3 +1,7 @@
+body {
+    font-family: Arial;
+}
+
 .row-header {
     margin: 0px auto;
     padding: 0px auto;
@@ -11,7 +15,7 @@
 }
 
 .footer {
-    background-color: lightpink;
+    background-color: rgb(167, 155, 167);
     margin: 0px auto;
     padding: 20px 0px 20px 0px;
 }
@@ -19,7 +23,7 @@
 .jumbotron {
     padding: 70px 30px 70px 30px;
     margin: 0px auto;
-    background: purple;
+    background: rgb(184, 115, 184);
     color: floralwhite;
 }
 
@@ -27,4 +31,13 @@
     font-size: 80%;
     margin: 0px;
     color: black;
+}
+
+.padder {
+    padding-top: 37px;
+    padding-bottom: 37px;
+}
+
+.leftpad {
+    padding-left: 100px;
 }
