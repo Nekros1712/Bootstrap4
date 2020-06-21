@@ -1,5 +1,8 @@
 body {
     font-family: Arial;
+    padding: 50px 0px 0px 0px;
+    z-index: 0px;
+    color: #0f0f0f;
 }
 
 .row-header {
@@ -40,4 +43,8 @@ body {
 
 .leftpad {
     padding-left: 100px;
+}
+
+.navbar-dark {
+    background-color: #512DA8;
 }
